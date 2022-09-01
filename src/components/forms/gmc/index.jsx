@@ -22,7 +22,6 @@ import GMCHelper from './helper';
 import { initialValues, initialValuesCalc } from '../../../constants/gmc-form.const';
 import bgTopRightImg from '../../../assets/images/right-top-bg.svg';
 import bgBottomLeftImg from '../../../assets/images/left-bottom-bg.svg';
-import sumInsuredList from '../../../constants/sum-insured.const';
 
 const useStyles = makeStyles({
   gmc: {
