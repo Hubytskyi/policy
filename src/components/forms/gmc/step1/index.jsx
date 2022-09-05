@@ -123,6 +123,7 @@ const StepOne = ({errors, values, handleChange, setFieldValue, setFieldError}) =
               value={values.phone || ''}
               fullWidth
               required
+              placeholder={'start with 9'}
               error={!!errors.phone}
               helperText={errors.phone ? errors.phone : ''}
               onChange={handlePhone}

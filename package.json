@@ -67,6 +67,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^4.1.0",
     "react-router-dom": "^6.3.0",
+    "react-toastify": "^9.0.8",
     "sass": "^1.49.7",
     "shopify-buy": "^2.11.0",
     "urql": "^2.0.2",
